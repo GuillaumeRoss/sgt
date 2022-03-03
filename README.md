@@ -1,4 +1,4 @@
-**UPDATE**: We have no plans to continue updating SGT moving forward. Please feel free to clone/fork this project, or try Kolide Fleet as an alternative (https://www.kolide.com/fleet/).
+**UPDATE**: We have no plans to continue updating SGT moving forward. Please feel free to clone/fork this project, or try Fleet as an alternative (https://github.com/fleetdm/fleet).
 
 ## SGT: OSQuery Management Server Built Entirely on AWS!
 [![Build Status](https://travis-ci.org/OktaSecurityLabs/sgt.svg?branch=master)](https://travis-ci.org/OktaSecurityLabs/sgt)
